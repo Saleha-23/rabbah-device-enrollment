@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#574EAD" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/rabbah_mark_white"
+        android:top="14dp" android:bottom="14dp" android:left="16dp" android:right="16dp" />
+</layer-list>

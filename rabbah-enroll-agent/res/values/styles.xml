@@ -1,0 +1,8 @@
+<resources>
+    <style name="RabbahTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#574EAD</item>
+        <item name="android:navigationBarColor">#F7F6FC</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:colorAccent">#574EAD</item>
+    </style>
+</resources>
